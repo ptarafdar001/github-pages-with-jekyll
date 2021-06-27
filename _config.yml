@@ -1,4 +1,8 @@
-title: Making a gitHub Webpage
+---
+title: "Welcome to my blog"
+date: 2021-6-27
+---
+title: Welcome to my blog
 author: Prabir Tarafdar
 email: ptarafdar010@gmail.com.com
 description: > # this means to ignore newlines until "baseurl:"
